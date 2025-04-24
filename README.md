@@ -97,6 +97,6 @@ Then ask:
 
 Here is an example of the output you can expect from the API:
 
-![Output Example](Gold Loan Chatbot.png)
+![Output Example](Gold_Loan_Chatbot.png)
 
 ---
